@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/demo-material-selectable-input/static/js/main.34a8f3dc.chunk.js",
+    "main.js.map": "/demo-material-selectable-input/static/js/main.34a8f3dc.chunk.js.map",
+    "runtime-main.js": "/demo-material-selectable-input/static/js/runtime-main.6f4f3391.js",
+    "runtime-main.js.map": "/demo-material-selectable-input/static/js/runtime-main.6f4f3391.js.map",
+    "static/js/2.51a37e2e.chunk.js": "/demo-material-selectable-input/static/js/2.51a37e2e.chunk.js",
+    "static/js/2.51a37e2e.chunk.js.map": "/demo-material-selectable-input/static/js/2.51a37e2e.chunk.js.map",
+    "static/js/3.da9f0cb2.chunk.js": "/demo-material-selectable-input/static/js/3.da9f0cb2.chunk.js",
+    "static/js/3.da9f0cb2.chunk.js.map": "/demo-material-selectable-input/static/js/3.da9f0cb2.chunk.js.map",
+    "index.html": "/demo-material-selectable-input/index.html",
+    "static/js/2.51a37e2e.chunk.js.LICENSE.txt": "/demo-material-selectable-input/static/js/2.51a37e2e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f4f3391.js",
+    "static/js/2.51a37e2e.chunk.js",
+    "static/js/main.34a8f3dc.chunk.js"
+  ]
+}
