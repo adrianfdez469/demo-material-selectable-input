@@ -78,6 +78,7 @@ const App = () => {
       {
         selected.map(item =>
           <Chip
+            key={item.text}
             avatar={<Avatar alt="Flag" src={item.flag} />}
             label={item.text}
             onDelete={() => handleDelete(item)}
