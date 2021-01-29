@@ -2,8 +2,6 @@ import React from 'react';
 import { Typography, Chip, Avatar } from '@material-ui/core';
 import InputSelect from 'react-material-selectable-inputtext';
 
-
-
 const App = () => {
   const [allCountries, setAllCountries] = React.useState([]);
   const [selected, setSelected] = React.useState([]);
